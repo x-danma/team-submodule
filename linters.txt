@@ -1,4 +1,4 @@
 fake linters definition file
 
 
-new version test
+new version test 2
